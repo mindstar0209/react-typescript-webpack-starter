@@ -1,16 +1,21 @@
-## Download the starter kit
+## Environment Kit
 
-npx degit https://github.com/gopinav/React-TypeScript-Webpack-Starter my-app
+setup npm module 16 version
 
 ## Install dependencies
 
-cd my-app &&
-yarn
+`npm install`
+or
+`yarn install`
 
 ## Run dev server
 
-yarn start
+`npm run start`
+or
+`yarn start`
 
 ## Build
 
-yarn build
+`npm build`
+or
+`yarn build`
